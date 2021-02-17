@@ -1,0 +1,18 @@
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: justify;
+  flex-direction: column;
+  color: blue;
+  flex-wrap: nowrap;
+  height: 100%;
+  width: 100%;
+}
+.players {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  height: 100%;
+  width: 100%;
+}
